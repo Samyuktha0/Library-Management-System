@@ -1,0 +1,21 @@
+Key Features:
+
+Authors Table: Stores author details like name and birthdate.
+
+Books Table: Manages information about books, genres, publication years, and links to authors.
+
+Members Table: Tracks library members and their joining dates.
+
+BorrowRecords Table: Keeps a record of borrowed books, including borrow and return dates.
+
+Sample Data:
+
+Includes entries for a popular author, a book from a renowned series, and a sample borrow record.
+
+Skills Highlighted:
+
+SQL schema creation and normalization.
+
+Designing relationships using foreign keys.
+
+Data insertion and troubleshooting.
